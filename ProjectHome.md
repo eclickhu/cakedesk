@@ -1,0 +1,1 @@
+Open source Service desk system with Tickets support, Resource assignment, Work orders assignment and a Knowledge Base.
